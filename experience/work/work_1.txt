@@ -1,0 +1,6 @@
+JOB: ArtifexAI
+LOCATION: Boston, MA
+TENURE: February 2024 - Current
+TITLE: Senior Data Scientist
+
+DESCRIPTION: ...
