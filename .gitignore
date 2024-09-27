@@ -1,2 +1,7 @@
 .idea
 .DS_Store
+experience/education
+experience/work
+experience/aboutme.txt
+cv_formatting.ipynb
+__pycache__/
